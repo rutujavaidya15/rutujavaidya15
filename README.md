@@ -1,1 +1,3 @@
-# Rutuja-s-Profile
+- Hi, This is Rutuja Vaidya
+- Mathematics & Data Science Enthusiast
+- I’m currently learning Machine Learning & Data Science using Python
