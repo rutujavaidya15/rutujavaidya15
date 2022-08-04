@@ -1,6 +1,6 @@
 - Hi, This is Rutuja Vaidya
-- Mathematics & Data Science Enthusiast
-- I’m currently learning Machine Learning & Data Science using Python
+- Machine Learning & Data Science Enthusiast
+- I’m currently exploring Machine Learning & Data Science using Python
 
 <!---
 strangercat15/Rutuja-s-Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
